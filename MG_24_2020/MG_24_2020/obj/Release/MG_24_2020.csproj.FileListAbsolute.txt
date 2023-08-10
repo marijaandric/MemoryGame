@@ -1,0 +1,17 @@
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\bin\Release\MG_24_2020.exe.config
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\bin\Release\MG_24_2020.exe
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\bin\Release\MG_24_2020.pdb
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.csproj.AssemblyReference.cache
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.Form1.resources
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.Properties.Resources.resources
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.csproj.GenerateResource.cache
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.csproj.CoreCompileInputs.cache
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.exe
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.pdb
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.Form2.resources
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.Form3.resources
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\bin\Release\MG_24_2020.exe.manifest
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\bin\Release\MG_24_2020.application
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.exe.manifest
+C:\Users\marij\Desktop\moj projekat ds\MG_24_2020\MG_24_2020\obj\Release\MG_24_2020.application

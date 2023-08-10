@@ -1,0 +1,14 @@
+CREATE DATABASE memoryGame;
+
+CREATE TABLE korisnik (
+    ime varchar(300),
+    broj_sekundi integer,
+    score integer,
+	rang varchar(300)
+);
+
+INSERT INTO korisnik(ime,broj_sekundi,score,rang)
+VALUES('pera', 50, 40, '4 x 4');
+
+INSERT INTO korisnik(ime,broj_sekundi,score,rang)
+VALUES('mile', 65, 40, '6 x 6');
